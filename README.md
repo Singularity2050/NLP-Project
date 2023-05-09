@@ -33,5 +33,10 @@ Google Colab
 - pandas 1.5.3
 - numpy 1.22.4
 
-# test
+# Analysis
+## Confusion Matrix
+<img width="569" alt="Screenshot 2023-05-08 at 9 07 16 PM" src="https://user-images.githubusercontent.com/67400401/236968538-d605aa51-ff26-4735-b52f-530064cbb9ee.png">
+
+## Report (Paragraph Sentiment) -Validation Set
+
 

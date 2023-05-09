@@ -38,5 +38,10 @@ Google Colab
 <img width="569" alt="Screenshot 2023-05-08 at 9 07 16 PM" src="https://user-images.githubusercontent.com/67400401/236968538-d605aa51-ff26-4735-b52f-530064cbb9ee.png">
 
 ## Report (Paragraph Sentiment) -Validation Set
+<img width="452" alt="Screenshot 2023-05-08 at 9 07 50 PM" src="https://user-images.githubusercontent.com/67400401/236968592-317bcdb9-307f-4ec6-8326-1c30b89721aa.png">
+
+## Report (Document Sentiment) -Testing Set
+<img width="264" alt="Screenshot 2023-05-08 at 9 08 25 PM" src="https://user-images.githubusercontent.com/67400401/236968645-6878bdfe-e0e8-42af-bab1-f111189950cf.png">
+
 
 

@@ -28,9 +28,10 @@ Google Colab
 - Minimum 5GB System RAM 
 - Minimum 25GB Disk
 - Python 3.10
-- torch 1.9.0 or later
+- torch 2.0.0+cu118
 - transformers 4.10.0 or later
-- pandas 1.1.5 or later
-- scikit-learn 0.24.2 or later
-- matplotlib 3.4.3 or later
+- pandas 1.5.3
+- numpy 1.22.4
+
+#
 
